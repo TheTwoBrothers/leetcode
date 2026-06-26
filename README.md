@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/TheTwoBrothers/leetcode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/TheTwoBrothers/leetcode/tree/master/0010-regular-expression-matching) |
+| [0091-decode-ways](https://github.com/TheTwoBrothers/leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/TheTwoBrothers/leetcode/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/TheTwoBrothers/leetcode/tree/master/0010-regular-expression-matching) |
+| [0091-decode-ways](https://github.com/TheTwoBrothers/leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/TheTwoBrothers/leetcode/tree/master/0139-word-break) |
 ## Trie
 |  |
