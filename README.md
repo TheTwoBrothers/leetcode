@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/TheTwoBrothers/leetcode/tree/master/0016-3sum-closest) |
 | [0139-word-break](https://github.com/TheTwoBrothers/leetcode/tree/master/0139-word-break) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/TheTwoBrothers/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/TheTwoBrothers/leetcode/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/0264-ugly-number-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/TheTwoBrothers/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/TheTwoBrothers/leetcode/tree/master/0337-house-robber-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/TheTwoBrothers/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
