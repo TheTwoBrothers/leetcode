@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/TheTwoBrothers/leetcode/tree/master/0016-3sum-closest) |
 | [0139-word-break](https://github.com/TheTwoBrothers/leetcode/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/TheTwoBrothers/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/TheTwoBrothers/leetcode/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/TheTwoBrothers/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/TheTwoBrothers/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-reducing-dishes](https://github.com/TheTwoBrothers/leetcode/tree/master/1402-reducing-dishes) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/0264-ugly-number-ii) |
 | [0337-house-robber-iii](https://github.com/TheTwoBrothers/leetcode/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/TheTwoBrothers/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/TheTwoBrothers/leetcode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/TheTwoBrothers/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-reducing-dishes](https://github.com/TheTwoBrothers/leetcode/tree/master/1402-reducing-dishes) |
 | [3620-network-recovery-pathways](https://github.com/TheTwoBrothers/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/TheTwoBrothers/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/TheTwoBrothers/leetcode/tree/master/0877-stone-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Heap (Priority Queue)
@@ -187,4 +190,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/TheTwoBrothers/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/TheTwoBrothers/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
