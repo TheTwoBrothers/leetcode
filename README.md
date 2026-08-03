@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/TheTwoBrothers/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/TheTwoBrothers/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-reducing-dishes](https://github.com/TheTwoBrothers/leetcode/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/TheTwoBrothers/leetcode/tree/master/1406-stone-game-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TheTwoBrothers/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/TheTwoBrothers/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/TheTwoBrothers/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/TheTwoBrothers/leetcode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/TheTwoBrothers/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-reducing-dishes](https://github.com/TheTwoBrothers/leetcode/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/TheTwoBrothers/leetcode/tree/master/1406-stone-game-iii) |
 | [3620-network-recovery-pathways](https://github.com/TheTwoBrothers/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Trie
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/TheTwoBrothers/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/TheTwoBrothers/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/TheTwoBrothers/leetcode/tree/master/1406-stone-game-iii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Heap (Priority Queue)
@@ -191,4 +194,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/TheTwoBrothers/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/TheTwoBrothers/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/TheTwoBrothers/leetcode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/TheTwoBrothers/leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/TheTwoBrothers/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
