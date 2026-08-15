@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/TheTwoBrothers/leetcode/tree/master/0016-3sum-closest) |
 | [0139-word-break](https://github.com/TheTwoBrothers/leetcode/tree/master/0139-word-break) |
+| [0239-sliding-window-maximum](https://github.com/TheTwoBrothers/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0486-predict-the-winner](https://github.com/TheTwoBrothers/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/TheTwoBrothers/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/1140-stone-game-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/TheTwoBrothers/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/0264-ugly-number-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/TheTwoBrothers/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TheTwoBrothers/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/TheTwoBrothers/leetcode/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheTwoBrothers/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TheTwoBrothers/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TheTwoBrothers/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -253,4 +256,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/TheTwoBrothers/leetcode/tree/master/1510-stone-game-iv) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/TheTwoBrothers/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/TheTwoBrothers/leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/TheTwoBrothers/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
