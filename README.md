@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/TheTwoBrothers/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-reducing-dishes](https://github.com/TheTwoBrothers/leetcode/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/TheTwoBrothers/leetcode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/TheTwoBrothers/leetcode/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TheTwoBrothers/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/TheTwoBrothers/leetcode/tree/master/2029-stone-game-ix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/TheTwoBrothers/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/TheTwoBrothers/leetcode/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/TheTwoBrothers/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/TheTwoBrothers/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/TheTwoBrothers/leetcode/tree/master/1563-stone-game-v) |
 | [3620-network-recovery-pathways](https://github.com/TheTwoBrothers/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Trie
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/TheTwoBrothers/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/TheTwoBrothers/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/TheTwoBrothers/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/TheTwoBrothers/leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/TheTwoBrothers/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/TheTwoBrothers/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/TheTwoBrothers/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/TheTwoBrothers/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
