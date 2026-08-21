@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/TheTwoBrothers/leetcode/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TheTwoBrothers/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/TheTwoBrothers/leetcode/tree/master/2029-stone-game-ix) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheTwoBrothers/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/TheTwoBrothers/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TheTwoBrothers/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TheTwoBrothers/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/TheTwoBrothers/leetcode/tree/master/1291-sequential-digits) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheTwoBrothers/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/TheTwoBrothers/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/TheTwoBrothers/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheTwoBrothers/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/TheTwoBrothers/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting Sort
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheTwoBrothers/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
