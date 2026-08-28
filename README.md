@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TheTwoBrothers/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/TheTwoBrothers/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/TheTwoBrothers/leetcode/tree/master/0016-3sum-closest) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/TheTwoBrothers/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheTwoBrothers/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/TheTwoBrothers/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/TheTwoBrothers/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
