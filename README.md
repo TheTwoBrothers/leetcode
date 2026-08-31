@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/TheTwoBrothers/leetcode/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/0264-ugly-number-ii) |
+| [0460-lfu-cache](https://github.com/TheTwoBrothers/leetcode/tree/master/0460-lfu-cache) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheTwoBrothers/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/TheTwoBrothers/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TheTwoBrothers/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -338,10 +339,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/TheTwoBrothers/leetcode/tree/master/0460-lfu-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TheTwoBrothers/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Brainteaser
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/TheTwoBrothers/leetcode/tree/master/0319-bulb-switcher) |
 | [1033-moving-stones-until-consecutive](https://github.com/TheTwoBrothers/leetcode/tree/master/1033-moving-stones-until-consecutive) |
+## Design
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/TheTwoBrothers/leetcode/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/TheTwoBrothers/leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
