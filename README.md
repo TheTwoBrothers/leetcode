@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/TheTwoBrothers/leetcode/tree/master/0486-predict-the-winner) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/TheTwoBrothers/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0877-stone-game](https://github.com/TheTwoBrothers/leetcode/tree/master/0877-stone-game) |
+| [1033-moving-stones-until-consecutive](https://github.com/TheTwoBrothers/leetcode/tree/master/1033-moving-stones-until-consecutive) |
 | [1140-stone-game-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/TheTwoBrothers/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/TheTwoBrothers/leetcode/tree/master/1510-stone-game-iv) |
@@ -339,4 +340,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/TheTwoBrothers/leetcode/tree/master/0319-bulb-switcher) |
+| [1033-moving-stones-until-consecutive](https://github.com/TheTwoBrothers/leetcode/tree/master/1033-moving-stones-until-consecutive) |
 <!---LeetCode Topics End-->
