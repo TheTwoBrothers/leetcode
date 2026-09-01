@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/TheTwoBrothers/leetcode/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/TheTwoBrothers/leetcode/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/0264-ugly-number-ii) |
 | [0460-lfu-cache](https://github.com/TheTwoBrothers/leetcode/tree/master/0460-lfu-cache) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheTwoBrothers/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/TheTwoBrothers/leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/TheTwoBrothers/leetcode/tree/master/0460-lfu-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TheTwoBrothers/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Brainteaser
@@ -349,9 +351,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/TheTwoBrothers/leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/TheTwoBrothers/leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/TheTwoBrothers/leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/TheTwoBrothers/leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
