@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/TheTwoBrothers/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/TheTwoBrothers/leetcode/tree/master/0337-house-robber-iii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TheTwoBrothers/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/TheTwoBrothers/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/TheTwoBrothers/leetcode/tree/master/0337-house-robber-iii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TheTwoBrothers/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Enumeration
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/TheTwoBrothers/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/TheTwoBrothers/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1901-find-a-peak-element-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/TheTwoBrothers/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/TheTwoBrothers/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/TheTwoBrothers/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheTwoBrothers/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TheTwoBrothers/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
