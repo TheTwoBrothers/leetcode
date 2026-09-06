@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/TheTwoBrothers/leetcode/tree/master/0016-3sum-closest) |
 | [0139-word-break](https://github.com/TheTwoBrothers/leetcode/tree/master/0139-word-break) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/TheTwoBrothers/leetcode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/TheTwoBrothers/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0486-predict-the-winner](https://github.com/TheTwoBrothers/leetcode/tree/master/0486-predict-the-winner) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/TheTwoBrothers/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/TheTwoBrothers/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1901-find-a-peak-element-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/1901-find-a-peak-element-ii) |
