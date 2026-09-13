@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/TheTwoBrothers/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0486-predict-the-winner](https://github.com/TheTwoBrothers/leetcode/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/TheTwoBrothers/leetcode/tree/master/0679-24-game) |
+| [0835-image-overlap](https://github.com/TheTwoBrothers/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/TheTwoBrothers/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/TheTwoBrothers/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0174-dungeon-game](https://github.com/TheTwoBrothers/leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/TheTwoBrothers/leetcode/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/TheTwoBrothers/leetcode/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/TheTwoBrothers/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1901-find-a-peak-element-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/TheTwoBrothers/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
