@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/TheTwoBrothers/leetcode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/TheTwoBrothers/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0486-predict-the-winner](https://github.com/TheTwoBrothers/leetcode/tree/master/0486-predict-the-winner) |
+| [0525-contiguous-array](https://github.com/TheTwoBrothers/leetcode/tree/master/0525-contiguous-array) |
 | [0679-24-game](https://github.com/TheTwoBrothers/leetcode/tree/master/0679-24-game) |
 | [0835-image-overlap](https://github.com/TheTwoBrothers/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/TheTwoBrothers/leetcode/tree/master/0877-stone-game) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/TheTwoBrothers/leetcode/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/0264-ugly-number-ii) |
 | [0460-lfu-cache](https://github.com/TheTwoBrothers/leetcode/tree/master/0460-lfu-cache) |
+| [0525-contiguous-array](https://github.com/TheTwoBrothers/leetcode/tree/master/0525-contiguous-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TheTwoBrothers/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheTwoBrothers/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/TheTwoBrothers/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/TheTwoBrothers/leetcode/tree/master/0525-contiguous-array) |
 | [1140-stone-game-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/TheTwoBrothers/leetcode/tree/master/1872-stone-game-viii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
