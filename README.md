@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/TheTwoBrothers/leetcode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/TheTwoBrothers/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0486-predict-the-winner](https://github.com/TheTwoBrothers/leetcode/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/TheTwoBrothers/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/TheTwoBrothers/leetcode/tree/master/0525-contiguous-array) |
 | [0679-24-game](https://github.com/TheTwoBrothers/leetcode/tree/master/0679-24-game) |
 | [0835-image-overlap](https://github.com/TheTwoBrothers/leetcode/tree/master/0835-image-overlap) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/TheTwoBrothers/leetcode/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/0264-ugly-number-ii) |
 | [0460-lfu-cache](https://github.com/TheTwoBrothers/leetcode/tree/master/0460-lfu-cache) |
+| [0523-continuous-subarray-sum](https://github.com/TheTwoBrothers/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/TheTwoBrothers/leetcode/tree/master/0525-contiguous-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TheTwoBrothers/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheTwoBrothers/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/TheTwoBrothers/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/TheTwoBrothers/leetcode/tree/master/0525-contiguous-array) |
 | [1140-stone-game-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/TheTwoBrothers/leetcode/tree/master/1872-stone-game-viii) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/0264-ugly-number-ii) |
 | [0319-bulb-switcher](https://github.com/TheTwoBrothers/leetcode/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/TheTwoBrothers/leetcode/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/TheTwoBrothers/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/TheTwoBrothers/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0679-24-game](https://github.com/TheTwoBrothers/leetcode/tree/master/0679-24-game) |
 | [0836-rectangle-overlap](https://github.com/TheTwoBrothers/leetcode/tree/master/0836-rectangle-overlap) |
@@ -445,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TheTwoBrothers/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TheTwoBrothers/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheTwoBrothers/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/TheTwoBrothers/leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
