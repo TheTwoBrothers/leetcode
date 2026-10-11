@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/TheTwoBrothers/leetcode/tree/master/0525-contiguous-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TheTwoBrothers/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheTwoBrothers/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TheTwoBrothers/leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/TheTwoBrothers/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1590-make-sum-divisible-by-p](https://github.com/TheTwoBrothers/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TheTwoBrothers/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TheTwoBrothers/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheTwoBrothers/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TheTwoBrothers/leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TheTwoBrothers/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheTwoBrothers/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/TheTwoBrothers/leetcode/tree/master/1927-sum-game) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/TheTwoBrothers/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/TheTwoBrothers/leetcode/tree/master/0525-contiguous-array) |
 | [1140-stone-game-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/1140-stone-game-ii) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TheTwoBrothers/leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1590-make-sum-divisible-by-p](https://github.com/TheTwoBrothers/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1872-stone-game-viii](https://github.com/TheTwoBrothers/leetcode/tree/master/1872-stone-game-viii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/TheTwoBrothers/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TheTwoBrothers/leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/TheTwoBrothers/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheTwoBrothers/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TheTwoBrothers/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
