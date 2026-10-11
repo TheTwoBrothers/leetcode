@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheTwoBrothers/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TheTwoBrothers/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TheTwoBrothers/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/TheTwoBrothers/leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TheTwoBrothers/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/TheTwoBrothers/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TheTwoBrothers/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TheTwoBrothers/leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1590-make-sum-divisible-by-p](https://github.com/TheTwoBrothers/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1872-stone-game-viii](https://github.com/TheTwoBrothers/leetcode/tree/master/1872-stone-game-viii) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/TheTwoBrothers/leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/TheTwoBrothers/leetcode/tree/master/1402-reducing-dishes) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TheTwoBrothers/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TheTwoBrothers/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/TheTwoBrothers/leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TheTwoBrothers/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TheTwoBrothers/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TheTwoBrothers/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/TheTwoBrothers/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TheTwoBrothers/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TheTwoBrothers/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/TheTwoBrothers/leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/TheTwoBrothers/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1901-find-a-peak-element-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TheTwoBrothers/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/TheTwoBrothers/leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/TheTwoBrothers/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TheTwoBrothers/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TheTwoBrothers/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
