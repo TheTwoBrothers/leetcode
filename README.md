@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/TheTwoBrothers/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/TheTwoBrothers/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3871-count-commas-in-range-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/TheTwoBrothers/leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TheTwoBrothers/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/TheTwoBrothers/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TheTwoBrothers/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
