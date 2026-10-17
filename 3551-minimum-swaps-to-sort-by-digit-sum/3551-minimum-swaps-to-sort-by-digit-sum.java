@@ -1,79 +1,65 @@
-class Solution {
+class Solution
+{
     int sum(int num)
     {
-        int sum=0;
-        while(num!=0)
+        int ans = 0;
+
+        while (num != 0)
         {
-            int r=num%10;
-            sum+=r;
-            num/=10;
+            ans += num % 10;
+            num /= 10;
         }
-        return sum;
+
+        return ans;
     }
-    public int minSwaps(int[] nums) {
-        HashMap<Integer,Integer>idxMap=new HashMap<>();
-        HashMap<Integer,Integer>valMap=new HashMap<>();
-        int n=nums.length;
-        for(int i=0;i<n;i++)
+
+    public int minSwaps(int[] nums)
+    {
+        int n = nums.length;
+        int[][] arr = new int[n][2];
+
+        for (int i = 0; i < n; i++)
         {
-            valMap.put(nums[i],i);
-            idxMap.put(i,nums[i]);
+            arr[i][0] = nums[i];
+            arr[i][1] = i;
         }
 
-        TreeMap<Integer,TreeSet<Integer>>map=new TreeMap<>();
-
-        Integer[] arr = Arrays.stream(nums).boxed().toArray(Integer[]::new);
-
         Arrays.sort(arr, (a, b) ->
         {
-            int s1 = sum(a);
-            int s2 = sum(b);
+            int s1 = sum(a[0]);
+            int s2 = sum(b[0]);
 
             if (s1 != s2)
             {
                 return Integer.compare(s1, s2);
             }
 
-            return Integer.compare(a, b);
+            return Integer.compare(a[0], b[0]);
         });
 
-        Arrays.sort(arr, (a, b) ->
+        boolean[] vis = new boolean[n];
+        int ans = 0;
+
+        for (int i = 0; i < n; i++)
         {
-            int s1 = sum(a);
-            int s2 = sum(b);
-
-            if (s1 != s2)
+            if (vis[i] || arr[i][1] == i)
             {
-                return Integer.compare(s1, s2);
+                continue;
             }
 
-            return Integer.compare(a, b);
-        });
+            int j = i;
+            int cycle = 0;
 
-         int ans=0;
-        // for(int i=0;i<n;i++)
-        //    IO.print(arr[i]+"  ");
-         for(int i=0;i<n;i++)
-         {
-            if(valMap.get(arr[i])!=i)
+            while (!vis[j])
             {
-                ans++;
-                int id=valMap.get(arr[i]);
-                valMap.put(arr[i],i);
-                int num=idxMap.get(i);
-                idxMap.put(i,arr[i]);
-                valMap.put(num,id);
-                idxMap.put(id,num);
-
-                // IO.println(id+" -- "+num);
-
+                vis[j] = true;
+                j = arr[j][1];
+                cycle++;
             }
-         }
 
-        return  ans;
+            ans += cycle - 1;
+        }
 
-
-
-
+        return ans;
     }
 }
