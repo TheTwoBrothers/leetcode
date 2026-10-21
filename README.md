@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TheTwoBrothers/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TheTwoBrothers/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/TheTwoBrothers/leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2680-maximum-or](https://github.com/TheTwoBrothers/leetcode/tree/master/2680-maximum-or) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TheTwoBrothers/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/TheTwoBrothers/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TheTwoBrothers/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/TheTwoBrothers/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1872-stone-game-viii](https://github.com/TheTwoBrothers/leetcode/tree/master/1872-stone-game-viii) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/TheTwoBrothers/leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2680-maximum-or](https://github.com/TheTwoBrothers/leetcode/tree/master/2680-maximum-or) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TheTwoBrothers/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TheTwoBrothers/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/TheTwoBrothers/leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2680-maximum-or](https://github.com/TheTwoBrothers/leetcode/tree/master/2680-maximum-or) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TheTwoBrothers/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/TheTwoBrothers/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TheTwoBrothers/leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/TheTwoBrothers/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheTwoBrothers/leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2680-maximum-or](https://github.com/TheTwoBrothers/leetcode/tree/master/2680-maximum-or) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TheTwoBrothers/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TheTwoBrothers/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
