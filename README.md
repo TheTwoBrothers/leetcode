@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TheTwoBrothers/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TheTwoBrothers/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TheTwoBrothers/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TheTwoBrothers/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/TheTwoBrothers/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TheTwoBrothers/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TheTwoBrothers/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TheTwoBrothers/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/TheTwoBrothers/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TheTwoBrothers/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TheTwoBrothers/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TheTwoBrothers/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TheTwoBrothers/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -476,10 +479,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/TheTwoBrothers/leetcode/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TheTwoBrothers/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/TheTwoBrothers/leetcode/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TheTwoBrothers/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -526,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TheTwoBrothers/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TheTwoBrothers/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheTwoBrothers/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TheTwoBrothers/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -546,4 +552,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TheTwoBrothers/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TheTwoBrothers/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
